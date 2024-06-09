@@ -1,7 +1,7 @@
-## Hi there 👋
+## Datos importantes sobre mí 
 
-<!--
-**victorialopezz/victorialopezz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+mi nombre es Victoria Constanza lopez,tengo 17 años y me gusta:
+
 
 Here are some ideas to get you started:
 
