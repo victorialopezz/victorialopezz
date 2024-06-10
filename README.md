@@ -1,6 +1,6 @@
 ## Hola soy vicky 
 
-datos sobre mi:tengo 17 años, soy de salta y estudio en el colegio de la divina misericordia
+datos sobre mi: tengo 17 años, soy de salta y estudio en el colegio de la divina misericordia
 
 ---
 
@@ -14,7 +14,11 @@ mis gustos:
 ---
 
 mis expectativas a futuro:
-estudiar relaciones internacionales y especializarme en ciencias politicas y ser una activista: 
+estudiar relaciones internacionales y especializarme en ciencias politicas y ser una activista: https://www.anu-ar.org/
+
+![]
+
+
 
 
 
