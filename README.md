@@ -5,11 +5,11 @@ datos sobre mi: tengo 17 años, soy de salta y estudio en el colegio de la divin
 ---
 
 mis gustos:
-- me gusta jugar al bingo
-- me gusta usar tiktok
-- me gusta aprender sobre la historia
-- me gusta el futbol
-- mis materias favoritas son ingles, economia y spd( con el profe fresco)
+- me gusta jugar al bingo 👍
+- me gusta usar tiktok 🌛
+- me gusta aprender sobre la historia 💥
+- me gusta el futbol ⚽
+- mis materias favoritas son ingles, economia y spd( con el profe fresco) 🤗
 
 ---
 
