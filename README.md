@@ -1,4 +1,4 @@
-## Hola soy vicky 
+## Hola soy vicky 🦾
 
 datos sobre mi: tengo 17 años, soy de salta y estudio en el colegio de la divina misericordia
 
@@ -18,7 +18,7 @@ estudiar relaciones internacionales y especializarme en ciencias politicas y ser
 
 ---
 
-gato enojón: ![](https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.webp)
+me gustan mucho los gatos: ![](https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.webp)
 
 
 
