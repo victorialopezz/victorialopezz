@@ -16,6 +16,10 @@ mis gustos:
 mis expectativas a futuro:
 estudiar relaciones internacionales y especializarme en ciencias politicas y ser una activista: https://www.anu-ar.org/
 
+---
+
+gato enojón: ![](https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.webp)
+
 
 
 
